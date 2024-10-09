@@ -7,6 +7,8 @@ package com.mycompany.introthread;
  *
  * @author frida
  */
+
+
 public class IntroThread {
     public static void main(String[] args) {
         CicloConcorrente cicloConcorrente = new CicloConcorrente();
